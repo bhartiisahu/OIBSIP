@@ -1,12 +1,3 @@
-# Software Developer Portfolio :100:
-A responsive and open source portfolio for software developers (Next.js & Tailwind CSS version).
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 ## Website Screenshot
 <img src="./Software-Developer-Portfolio-Screenshot.png" alt="Software-Developer-Portfolio-Screenshot" />
 
@@ -37,8 +28,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
