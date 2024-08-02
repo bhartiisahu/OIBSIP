@@ -27,3 +27,15 @@ To run the Simplefolio project in Visual Studio Code, follow these steps:
     ```
 
 This will allow you to view and work on the Simplefolio project locally.
+
+![image](https://github.com/user-attachments/assets/8e3c51a8-3193-49c0-88bd-267612994c3b)
+![image](https://github.com/user-attachments/assets/18fb995e-f659-4305-a63a-da715a113fb2)
+![image](https://github.com/user-attachments/assets/83d91a3f-c8a0-4115-a655-572aed6f8b99)
+![image](https://github.com/user-attachments/assets/d3820b31-eff7-4674-b5ef-93bb9d745768)
+
+Video Tutorial:
+"C:\Users\91810\Videos\EaseUS RecExperts\20240801_184116.mp4"
+
+
+
+
